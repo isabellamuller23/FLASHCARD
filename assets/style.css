@@ -27,9 +27,15 @@ body {
 }
 .cartao { 
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(190, 88, 250);
     height:  20rem ;
 } 
 .cartao {
+    
+}  
+#container {
+    display:flex ;
+}
+
     
 }
